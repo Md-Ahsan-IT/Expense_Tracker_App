@@ -1,7 +1,7 @@
-💰 Daily Expense Tracker
-A beautiful and intuitive web application for tracking daily expenses, built with Python and Streamlit. Perfect for personal finance management.
-https://img.shields.io/badge/Python-3.8+-blue.svg
-https://img.shields.io/badge/Streamlit-1.28+-red.svg
+💰 Daily Expense Tracker/n
+A beautiful and intuitive web application for tracking daily expenses, built with Python and Streamlit. Perfect for personal finance management./n
+https://img.shields.io/badge/Python-3.8+-blue.svg/n
+https://img.shields.io/badge/Streamlit-1.28+-red.svg/n
 ✨ Features
 ➕ Add Expenses - Quick daily expense entry with categories
 📊 Dashboard - Overview of spending with metrics and charts

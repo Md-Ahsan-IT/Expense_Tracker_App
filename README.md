@@ -20,6 +20,7 @@ git clone https://github.com/yourusername/daily-expense-tracker.git
 pip install streamlit pandas
 3.Run the application:
 streamlit run expense_app.py
+Open your browser and go to http://localhost:8501
 
 📁 Project Structure
 text
